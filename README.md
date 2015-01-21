@@ -1,6 +1,6 @@
 ##vt_tmux
 ===========
-full name : vastiny_tmux_putty
+#####full name : vastiny_tmux_putty
 
 This Script only provides a simple display color with "tmux -2" user (command only color-scheme).
 also valid in putty!
