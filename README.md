@@ -1,0 +1,39 @@
+##vt_tmux
+full name : vastiny_tmux_putty
+===========
+
+This Script only provides a simple display color with "tmux -2" user (command only color-scheme).
+also valid in putty!
+
+
+###How To Use vt_tmux?
+
+Use the command ":color vt_tmux"
+
+
+###How To Set vt_tmux as your Default Color Scheme?
+
+Add the following Line to your _vimrc or .vimrc File:
+
+*colorscheme vt_tmux*
+
+
+###How To Install Dev_Delight?
+
+Save the file as "colors/vt_tmux.vim" under your ".vim" directory
+
+i.e. as *~/.vim/colors/vt_tmux.vim* (on GNU/Linux OS).
+
+###Use in putty
+
+run the vt_tmux_putty_color.reg on windows.
+
+
+*Screenshots:*
+
+
+![vt_tmux](https://raw.github.com/yantze/vt_tmux/master/Images/Screenshot_1.png)
+
+
+base on ir_black.vim
+author : yantze@126.com
