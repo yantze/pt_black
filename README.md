@@ -1,5 +1,4 @@
 ##vt_tmux
-===========
 
 This Script only provides a simple display color with "tmux -2" user (command only color-scheme).
 also valid in putty!
@@ -22,6 +21,7 @@ Add the following Line to your _vimrc or .vimrc File:
 Save the file as "colors/vt_tmux.vim" under your ".vim" directory
 
 i.e. as *~/.vim/colors/vt_tmux.vim* (on GNU/Linux OS).
+
 the ir_black.vim file must put in ~/.vim/colors/, the vt_tmux will invoke ir_black.vim
 
 ###Use in putty
