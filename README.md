@@ -1,6 +1,5 @@
 ##vt_tmux
 ===========
-#####full name : vastiny_tmux_putty
 
 This Script only provides a simple display color with "tmux -2" user (command only color-scheme).
 also valid in putty!
@@ -37,5 +36,6 @@ run the vt_tmux_putty_color.reg on windows.
 
 
 base on ir_black.vim
+full name : vastiny_tmux_putty
 
 author : yantze@126.com
