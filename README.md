@@ -22,7 +22,6 @@ Save the file as "colors/vt_tmux.vim" under your ".vim" directory
 
 i.e. as *~/.vim/colors/vt_tmux.vim* (on GNU/Linux OS).
 
-the ir_black.vim file must put in ~/.vim/colors/, the vt_tmux will invoke ir_black.vim
 
 ###Use in putty
 
@@ -36,6 +35,7 @@ run the vt_tmux_putty_color.reg on windows.
 
 
 base on ir_black.vim
+
 full name : vastiny_tmux_putty
 
 author : yantze@126.com
