@@ -7,7 +7,7 @@ runtime globpath(&rtp, 'colors\ir_black.vim')
 " and base-cn on grb256
 " From https://github.com/garybernhardt/destroy-all-software-extras/blob/master/das-0030-some-vim-tips/grb256.vim
 
-let g:colors_name = "vt_tmux"
+let g:colors_name = "vt_putty"
 
 hi pythonSpaceError ctermbg=red
 
@@ -17,7 +17,7 @@ hi VertSplit        ctermbg=black     ctermfg=lightgrey
 hi LineNr           ctermfg=darkgray
 
 hi Comment          ctermbg=none        ctermfg=grey
-hi CursorLine       ctermfg=NONE        ctermbg=234
+hi CursorLine       ctermfg=NONE        ctermbg=0
 hi Function         ctermfg=yellow      ctermbg=NONE   cterm=NONE
 hi Visual           ctermfg=NONE        ctermbg=32     cterm=NONE
 
