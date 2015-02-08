@@ -1,7 +1,6 @@
-##pt_black
+#pt_black
 
 This Script only provides a simple display color with "tmux -2" user (command only color-scheme).
-also valid in putty!
 
 ###simple way
 first, use [Vundle plugin manager](http://github.com/gmarik/Vundle.vim):
@@ -33,7 +32,7 @@ Add the following Line to your _vimrc or .vimrc File:
 
 Save the file as "colors/pt_black.vim" under your ".vim" directory
 
-i.e. as *~/.vim/colors/pt_black.vim* (on GNU/Linux OS).
+i.e. as *~/.vim/colors/pt_black.vim* .
 
 
 ###Use in putty
