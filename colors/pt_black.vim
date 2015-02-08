@@ -1,13 +1,13 @@
 " author : yantze@126.com
-" full name : vastiny_tmux_putty
+" full name : putty_tmux_black
 
 " Based on
-" runtime colors/ir_black.vim
-runtime globpath(&rtp, 'colors\ir_black.vim')
+runtime colors/ir_black.vim
+" runtime globpath(&rtp, 'colors\ir_black.vim')
 " and base-cn on grb256
 " From https://github.com/garybernhardt/destroy-all-software-extras/blob/master/das-0030-some-vim-tips/grb256.vim
 
-let g:colors_name = "vt_putty"
+let g:colors_name = "pt_black"
 
 hi pythonSpaceError ctermbg=red
 
