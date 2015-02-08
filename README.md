@@ -9,7 +9,9 @@ first, use [Vundle plugin manager](http://github.com/gmarik/Vundle.vim):
 Plugin 'yantze/pt_black'
 ```
 then, use pt_black_putty_color.reg change windows putty color.
+
 next, excute `tmux -2`.
+
 then, use `:color pt_black` in vim
 
 
