@@ -1,7 +1,5 @@
 # pt_black
-full name : putty_tmux_black
-
-This Script only provides a simple display color with "tmux -2" user (command only color-scheme).
+pt_black(putty_tmux_black) only provides a simple display color with command line user and putty user.
 
 
 ### Prefect way
@@ -9,7 +7,7 @@ This Script only provides a simple display color with "tmux -2" user (command on
 ```
 Plugin 'yantze/pt_black'
 ```
-- change windows putty color.(remember load [pt_black] setting on putty.exe)
+- Change windows putty color.(remember load [pt_black] setting on putty.exe)
 
 Run file `pt_black_putty_color_setting.reg` 
 
@@ -58,5 +56,5 @@ run the `pt_black_putty_color_setting.reg` file on windows.
 ### Contributions
 Always welcome.
 
-### Thinks
+### Thanks
 Base on ir_black.vim
