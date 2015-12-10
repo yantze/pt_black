@@ -11,12 +11,12 @@ Plugin 'yantze/pt_black'
 ```
 - change windows putty color.(remember load [pt_black] setting on putty.exe)
 
-    Run file `pt_black_putty_color_setting.reg` 
+Run file `pt_black_putty_color_setting.reg` 
 
 - Use in Tmux
 ```
-    # run in 256 colors mode
-    tmux -2
+# run in 256 colors mode
+tmux -2
 ```
 
 - Use in Vim
