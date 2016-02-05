@@ -1,5 +1,6 @@
 " putty_tmux_black color setting
 " author : yantze@126.com
+" repo: github.com/yantze/pt_black
 
 " Base on ir_black
 " runtime colors/ir_black.vim
